@@ -19,6 +19,7 @@ The solution centralizes authentication and access control for multiple applicat
 
 ## Architecture
 ![Global IAM Architecture](01-global-iam-architecture.png)
+
 The platform is composed of:
 
 - **Keycloak** — Identity Provider and authentication server
