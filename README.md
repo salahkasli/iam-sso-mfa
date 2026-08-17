@@ -18,7 +18,7 @@ The solution centralizes authentication and access control for multiple applicat
 - Deploy the platform using Docker and Docker Compose
 
 ## Architecture
-
+![Global IAM Architecture](01-global-iam-architecture.png)
 The platform is composed of:
 
 - **Keycloak** — Identity Provider and authentication server
